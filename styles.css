@@ -1,0 +1,53 @@
+img {
+    display: block;
+    margin: 0 auto;
+    width: 50%;
+    height: auto;
+}
+
+h1 {
+    color: hsl(74, 100%, 37%);
+    font-size: 70px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    margin: 100px;
+}
+
+body {
+    background-color: #000000;
+}
+
+p {
+    color: aliceblue;
+    text-align: center;
+}
+
+h3 {
+    color: aliceblue;
+    text-align: center;
+    font-size: 20px;
+}
+
+.container {
+    display: grid;
+    grid-auto-flow: column;
+    gap: 20px;
+}
+.item {
+    text-align: center;
+    border: 1px solid #ff851a;
+    padding: 5%;
+}
+a {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    color: hsl(74, 100%, 37%);
+    text-decoration: none;
+    display: block; /* Makes the link a block element */
+            text-align: center; /* Centers the text inside the link */
+            width: fit-content; /* Adjust width based on content */
+            margin: 0 auto; /* Centers the link itself */
+}
+a:hover {
+    color: hsl(201, 100%, 76%)
+}
