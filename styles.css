@@ -8,7 +8,7 @@ img {
 h1 {
     color: #364c84;
     font-size: 70px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Rubik Pixels', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
 }
 
@@ -62,3 +62,9 @@ a {
 a:hover {
     color: hsl(201, 100%, 76%)
 }
+
+.rubik-pixels-regular {
+    font-family: "Rubik Pixels", serif;
+    font-weight: 400;
+    font-style: normal;
+  }  
