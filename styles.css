@@ -28,6 +28,18 @@ h3 {
     font-size: 20px;
 }
 
+h2 {
+    color: aliceblue;
+    text-align: center;
+    font-size: 20px;
+}
+
+h4 {
+    color: aliceblue;
+    text-align: center;
+    font-size: 20px;
+}
+
 .container {
     display: grid;
     grid-auto-flow: column;
