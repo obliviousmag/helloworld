@@ -17,7 +17,7 @@ body {
 }
 
 p {
-    color: aliceblue;
+    color: #364c84;
     text-align: center;
 }
 
@@ -65,6 +65,11 @@ a:hover {
 
 .rubik-pixels-regular {
     font-family: "Rubik Pixels", serif;
+    font-weight: 400;
+    font-style: normal;
+  }  
+  .vibes-regular {
+    font-family: "Vibes", serif;
     font-weight: 400;
     font-style: normal;
   }  
